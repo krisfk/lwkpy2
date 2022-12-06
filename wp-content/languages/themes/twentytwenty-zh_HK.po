@@ -1,0 +1,105 @@
+# Translation of Themes - Twenty Twenty in Chinese (Hong Kong)
+# This file is distributed under the same license as the Themes - Twenty Twenty package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-12-07 06:04:24+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-rc.2\n"
+"Language: zh_HK\n"
+"Project-Id-Version: Themes - Twenty Twenty\n"
+
+#. translators: 1: Comment date, 2: Comment time.
+#: classes/class-twentytwenty-walker-comment.php:72
+#, gp-priority: normal
+msgid "%1$s at %2$s"
+msgstr "%1$s%2$s"
+
+#: classes/class-twentytwenty-walker-comment.php:86
+#, gp-priority: normal
+msgid "Edit"
+msgstr "編輯"
+
+#: classes/class-twentytwenty-walker-comment.php:102
+#, gp-priority: normal
+msgid "Your comment is awaiting moderation."
+msgstr "你的留言正在等候審閱。"
+
+#: comments.php:34
+#, gp-priority: normal
+msgid "Leave a comment"
+msgstr "發表評論"
+
+#. translators: %s: Post title.
+#: comments.php:37
+#, gp-priority: normal
+msgctxt "comments title"
+msgid "One reply on &ldquo;%s&rdquo;"
+msgstr "《%s》有 1 則留言"
+
+#. translators: 1: Number of comments, 2: Post title.
+#: comments.php:41
+#, gp-priority: normal
+msgctxt "comments title"
+msgid "%1$s reply on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s replies on &ldquo;%2$s&rdquo;"
+msgstr[0] "《%2$s》有 %1$s 則留言"
+
+#: comments.php:88
+#, gp-priority: normal
+msgid "Comments"
+msgstr "留言"
+
+#: comments.php:127
+#, gp-priority: normal
+msgid "Comments are closed."
+msgstr "留言功能已關閉。"
+
+#: inc/starter-content.php:177 inc/starter-content.php:187
+#, gp-priority: normal
+msgid "Primary"
+msgstr "主要"
+
+#: inc/starter-content.php:197
+#, gp-priority: normal
+msgid "Social Links Menu"
+msgstr "社群網路連結選單"
+
+#. translators: %s: Post title. Only visible to screen readers.
+#: inc/template-tags.php:223
+#, gp-priority: normal
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "編輯 <span class=\"screen-reader-text\">%s</span>"
+
+#: functions.php:276
+#, gp-priority: normal
+msgid "Footer Menu"
+msgstr "底部選單"
+
+#: template-parts/content-cover.php:138 template-parts/content.php:48
+#, gp-priority: normal
+msgid "Pages:"
+msgstr "頁次："
+
+#: template-parts/footer-menus-widgets.php:37
+#, gp-priority: normal
+msgid "Footer"
+msgstr "頁尾"
+
+#: template-parts/content-cover.php:138 template-parts/content.php:48
+#, gp-priority: normal
+msgid "Page"
+msgstr "頁次"
+
+#. Author URI of the theme
+#: footer.php:38
+#, gp-priority: low
+msgid "https://wordpress.org/"
+msgstr "https://zh-hk.wordpress.org/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "the WordPress team"
+msgstr "WordPress 團隊"
